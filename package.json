@@ -1,0 +1,27 @@
+{
+  "name": "kenjaku",
+  "version": "1.0.0",
+  "description": "o verdadeiro jujutsu.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kyori-kyo/kenjaku.git"
+  },
+  "keywords": [
+    "kenjaku",
+    "selado",
+    "satoro",
+    "funier",
+    "than",
+    "takaba"
+  ],
+  "author": "kyori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kyori-kyo/kenjaku/issues"
+  },
+  "homepage": "https://github.com/Kyori-kyo/kenjaku#readme"
+}
